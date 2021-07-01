@@ -1,0 +1,1 @@
+启动后浏览器输入：http://localhost:8080/github/search/repositories?q=spring%20cloud
